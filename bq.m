@@ -1,4 +1,4 @@
-%% 2.17 Exercises - 2.10
+%% 2.17 Exercises - 2.11
 clear
 clc
 
