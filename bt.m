@@ -1,4 +1,4 @@
-%% 2.17 Exercises - 2.15
+%% 2.17 Exercises - 2.14
 
 % 2.14 a. Calculates the vector in polar coordinates, with the angle
 % expressed in degrees.
